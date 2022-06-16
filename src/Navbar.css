@@ -1,9 +1,15 @@
 .nav {
     background-color: brown;
+    color: white;
+    display: flex;
+    justify-content: space-between;
 
 }
+.options{
+    margin-top: 10px;
+    margin-right: 10px;
+}
 a {
-   color: #eee;;
     margin: 10px;
     
 }
